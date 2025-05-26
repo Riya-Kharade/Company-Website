@@ -4,13 +4,6 @@
 🌐 Multi-page website | 🧩 Header & Footer includes | 🎯 Built with HTML, CSS, and JavaScript
 
 <br>
-
-## 🏢 Company Website Overview
-
-A clean and modern company website template designed to showcase business services, provide information, and allow users to easily get in touch. This website can be used for startups, enterprises, or service-based companies.
-
-<br>
-
 ---
 
 ## ✨ Features
