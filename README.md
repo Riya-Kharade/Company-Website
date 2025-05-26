@@ -3,7 +3,7 @@
 
 🌐 Multi-page website | 🧩 Header & Footer includes | 🎯 Built with HTML, CSS, and JavaScript
 
-<br>
+
 ## ✨ Features
 
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
